@@ -1,10 +1,7 @@
 {
   "name": "mehrzad-react-reusable-components",
-  "version": "0.1.0",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/mehrzad7394/Reusable-React-components.git"
-  },
+  "version": "0.1.1",
+ 
   "main": "dist/index.js",
   "module": "dist/index.js",
   "typing": "dist/index.d.ts",
