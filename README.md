@@ -3,8 +3,7 @@
 
 ## Install
 
-Install using 
-#### npm i @mehrzad7394/react-reusable-components
+Install using  `npm i @mehrzad7394/react-reusable-components`
 
 ### Usage 
 
